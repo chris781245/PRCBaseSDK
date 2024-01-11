@@ -1,6 +1,6 @@
 {
   "name": "PRCBaseSDK",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A short description of PRCBaseSDK.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/chris781245/PRCBaseSDK",
@@ -13,10 +13,21 @@
   },
   "source": {
     "git": "https://github.com/chris781245/PRCBaseSDK.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "PRCBaseSDK/Classes/**/*"
+  "source_files": "PRCBaseSDK/Classes/**/*",
+  "dependencies": {
+    "SDWebImage": [
+
+    ],
+    "TTTAttributedLabel": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
 }

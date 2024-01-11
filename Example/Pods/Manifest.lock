@@ -1,15 +1,32 @@
 PODS:
-  - PRCBaseSDK (0.1.0)
+  - Masonry (1.1.0)
+  - PRCBaseSDK (1.0.0):
+    - Masonry
+    - SDWebImage
+    - TTTAttributedLabel
+  - SDWebImage (5.18.9):
+    - SDWebImage/Core (= 5.18.9)
+  - SDWebImage/Core (5.18.9)
+  - TTTAttributedLabel (2.0.0)
 
 DEPENDENCIES:
   - PRCBaseSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SDWebImage
+    - TTTAttributedLabel
 
 EXTERNAL SOURCES:
   PRCBaseSDK:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PRCBaseSDK: 7b939ff4a1bedf20f817bcb89af4ee7c990f4748
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PRCBaseSDK: 9e5746501ad94e281d4bf29909b416ef489cebe9
+  SDWebImage: 5e9b5f18ce88146692b1a5c174858948c84ff237
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
 
 PODFILE CHECKSUM: ad6b5bd4d74fd15bce7b9d09feaf6217856a443d
 
