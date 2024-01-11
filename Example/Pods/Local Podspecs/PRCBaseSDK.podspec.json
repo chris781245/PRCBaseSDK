@@ -1,0 +1,22 @@
+{
+  "name": "PRCBaseSDK",
+  "version": "0.1.0",
+  "summary": "A short description of PRCBaseSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chris781245/PRCBaseSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chris781245": "chris781245@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chris781245/PRCBaseSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PRCBaseSDK/Classes/**/*"
+}

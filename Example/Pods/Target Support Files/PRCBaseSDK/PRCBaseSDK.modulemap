@@ -1,0 +1,6 @@
+framework module PRCBaseSDK {
+  umbrella header "PRCBaseSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

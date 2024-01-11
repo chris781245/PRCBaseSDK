@@ -1,0 +1,16 @@
+PODS:
+  - PRCBaseSDK (0.1.0)
+
+DEPENDENCIES:
+  - PRCBaseSDK (from `../`)
+
+EXTERNAL SOURCES:
+  PRCBaseSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PRCBaseSDK: 7b939ff4a1bedf20f817bcb89af4ee7c990f4748
+
+PODFILE CHECKSUM: ad6b5bd4d74fd15bce7b9d09feaf6217856a443d
+
+COCOAPODS: 1.14.3
